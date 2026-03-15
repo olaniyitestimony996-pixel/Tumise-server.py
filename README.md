@@ -1,0 +1,18 @@
+"A high-performance lead generation and customer engagement engine."
+This is a custom-built Flask Backend designed to automate the project intake process for Tumise Graphix.
+Instead of a basic contact form, this system handles secure order notifications and provides an interactive
+"Elite Updates" experience for clients.
+
+🛠️ Technical Architecture
+Engine: Python 3.x / Flask Web Framework.
+Security: Integrated SMTP_SSL (Port 465) for encrypted email dispatch.
+Frontend: Apple-inspired Glassmorphism UI injected via render_template_string.
+UX Logic: Real-time JavaScript "Update Slider" for customer retention and service showcasing.
+CORS: Configured for cross-origin resource sharing to support multiple frontends.
+
+🛠️ Technical Architecture
+Engine: Python 3.x / Flask Web Framework.
+Security: Integrated SMTP_SSL (Port 465) for encrypted email dispatch.
+Frontend: Apple-inspired Glassmorphism UI injected via render_template_string.
+UX Logic: Real-time JavaScript "Update Slider" for customer retention and service showcasing.
+CORS: Configured for cross-origin resource sharing to support multiple frontends.
